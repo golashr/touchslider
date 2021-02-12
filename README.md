@@ -1,0 +1,1 @@
+Build a full screen touch slider with HTML, CSS & JavaScript
